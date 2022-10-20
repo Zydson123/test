@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">20.10.2022</string>
+    <string name="pytanko">Jaki szczyt jest widoczny na zdjęciu?</string>
+    <string name="giewont">Giewont</string>
+    <string name="tarnica">Tarnica</string>
+    <string name="wielka_racza">Wielka Racza</string>
+    <string name="sprawdz">Sprawdź</string>
+    <string name="podpowiedz">Podpowiedź</string>
+    <string name="klapki">Szczyt góry, ludzie wchodzą w klapkach</string>
+    <string name="pies">pies</string>
+    <string name="good">good answer!</string>
+    <string name="wrong">wrong answer!</string>
+</resources>
